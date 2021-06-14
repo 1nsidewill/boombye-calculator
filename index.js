@@ -1,7 +1,7 @@
 
 
 function calcuate(){
-    
+    console.log("yoyo");
 }
 
 
