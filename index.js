@@ -1,5 +1,19 @@
 
 
+function calcuate(){
+    
+}
+
+
+function stageSpend(){
+
+}
+
+
+function countStage(){
+
+}
+
 
 function countUser(){
     console.log("user number input");
